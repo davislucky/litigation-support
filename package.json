@@ -5,5 +5,12 @@
   "repository": "git@github.com:davislucky/litigation-support.git",
   "author": "davislucky",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
 }
