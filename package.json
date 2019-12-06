@@ -1,0 +1,9 @@
+{
+  "name": "litigation-support",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:davislucky/litigation-support.git",
+  "author": "davislucky",
+  "license": "MIT",
+  "private": true
+}
